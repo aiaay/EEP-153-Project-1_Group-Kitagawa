@@ -7,3 +7,7 @@ Originally we wanted to see if there was convergence in population trends for co
 
 ### Countries of Investigation:
 The Baltic States (Estonia, Lithuania, Latvia)
+
+
+#### *Viewing Directions 
+Please download the notebook for the animated population pyramids to render; change the file path for the Baltics shapefiles to your local path in second cell in the "[#C] Population Maps of the Baltic States" portion
